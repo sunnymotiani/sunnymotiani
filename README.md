@@ -65,7 +65,6 @@ Long term, my mission is to become the **software backbone that traditional busi
 
 - Legacy ERP integration over JSON + XML wire formats
 - QR-driven warehouse packing, dispatch labels, and shop-floor scanning
-- Telegram-triggered **disaster mode** for business continuity
 - Role-based workflows (packing, stitching, pickup, accountant, dispatch officer)
 
 ---
