@@ -111,13 +111,4 @@ Long term, my mission is to become the **software backbone that traditional busi
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunnymotiani&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnymotiani&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <p align="center"><em>"Bridging traditional businesses with modern software — one module at a time."</em></p>
